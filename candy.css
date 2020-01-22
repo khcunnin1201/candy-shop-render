@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+
+/* nav a:hover {
+    font-size: 1.9rem;
+    background-color: #f1cbd2;
+    border: 1px solid #000;
+    transition: all .3s ease-in-out;
+    border-radius: 8px;
+} */
+li {
+    list-style: none;
+}
+
+#Chocolate{
+    color: black;
+}
